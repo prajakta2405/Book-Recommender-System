@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
@@ -132,3 +133,7 @@ Email: entbappy73@gmail.com
 ```
 
 
+=======
+# Book-Recommender-System
+This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
+>>>>>>> origin/main
